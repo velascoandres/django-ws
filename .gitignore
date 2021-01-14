@@ -1,0 +1,7 @@
+#backend ignoring file
+*.pyc
+db.sqlite3
+**/__pycache__
+**/venv
+.env
+/node_modules
